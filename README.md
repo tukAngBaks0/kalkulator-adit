@@ -10,4 +10,6 @@ Tentukan Struktur Data Pilih struktur data yang sesuai untuk menyimpan angka dan
 Rancang Antarmuka Pengguna (UI) a. Desain antarmuka yang memungkinkan pengguna memasukkan dua angka dan memilih operasi matematika (penjumlahan, pengurangan, perkalian, atau pembagian). b. Gunakan komponen seperti TextBox untuk input angka, dan Button untuk operasi matematika.
 Implementasikan Logika Program a. Tulis kode untuk menangani input pengguna dan memilih operasi berdasarkan tombol yang ditekan. b. Gunakan kondisi if-else atau switch-case untuk menentukan operasi matematika yang diinginkan dan lakukan perhitungan. c. Pastikan untuk menangani pembagian dengan nol dengan memberi peringatan atau pesan kesalahan.
 Validasi Input Pengguna a. Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid. b. Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
-Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
+Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang
+![Screenshot 2025-02-06 113323](https://github.com/user-attachments/assets/93a8780d-5938-449d-9c85-61876bab6313)
+ jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
